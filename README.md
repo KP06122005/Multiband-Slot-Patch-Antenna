@@ -35,13 +35,6 @@ Radar imaging and defense systems
 
 Satellite communication and 5G backhaul
 
-Design Images
-
-<img width="945" height="975" alt="Screenshot 2025-09-25 194832" src="https://github.com/user-attachments/assets/562397cd-0121-4b23-9d72-8ae363032d2e" />
-<img width="1225" height="966" alt="Screenshot 2025-09-25 194923" src="https://github.com/user-attachments/assets/a90716b7-26cb-4119-b1b9-89068cf28d15" />
-<img width="1080" height="979" alt="Screenshot 2025-09-25 194953" src="https://github.com/user-attachments/assets/dfef1566-ce67-46cf-9964-378a25f35ea7" />
-<img width="1847" height="844" alt="Screenshot 2025-09-25 195228" src="https://github.com/user-attachments/assets/cf7eeaf6-7a78-42f9-99d7-4e4351ce209e" />
-
 📊 Results
 
 Return Loss (S11): Multiple resonant dips confirming multiband operation
