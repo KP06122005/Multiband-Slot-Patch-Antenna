@@ -35,27 +35,20 @@ Radar imaging and defense systems
 
 Satellite communication and 5G backhaul
 
+Design Images
+
+<img width="945" height="975" alt="Screenshot 2025-09-25 194832" src="https://github.com/user-attachments/assets/562397cd-0121-4b23-9d72-8ae363032d2e" />
+<img width="1225" height="966" alt="Screenshot 2025-09-25 194923" src="https://github.com/user-attachments/assets/a90716b7-26cb-4119-b1b9-89068cf28d15" />
+<img width="1080" height="979" alt="Screenshot 2025-09-25 194953" src="https://github.com/user-attachments/assets/dfef1566-ce67-46cf-9964-378a25f35ea7" />
+<img width="1847" height="844" alt="Screenshot 2025-09-25 195228" src="https://github.com/user-attachments/assets/cf7eeaf6-7a78-42f9-99d7-4e4351ce209e" />
+
 📊 Results
 
 Return Loss (S11): Multiple resonant dips confirming multiband operation
 
-VSWR: Below 2 across all bands → good impedance matching
-
-Gain: Ranges from ~2.5 dBi to 6 dBi depending on band
-
 Radiation Patterns: Stable, omnidirectional at lower bands, directional at higher bands
 
-(Insert simulation plots: S11 curve, VSWR graph, radiation patterns, gain vs frequency)
-
-📂 Repository Contents
-
-/design/ → HFSS design files
-
-/results/ → Simulation plots (S11,Radiation Patterns)
-
-/docs/ → Report, comparison tables, project documentation
-
-README.md → Project overview
+<img width="2433" height="989" alt="Screenshot 2025-09-25 171357" src="https://github.com/user-attachments/assets/ca26947b-890e-4199-9ca9-e518d0008bfe" />
 
 🔗 Comparison with Existing Work
 
